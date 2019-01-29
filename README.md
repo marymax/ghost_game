@@ -1,7 +1,6 @@
-# ghost_game
-App Academy/Ruby/Enumerables/Ghost Game
+# Ghost Game
 
-This simple CLI Ghost Game was written as I work through the App Academy Open curriculum at https://www.aaonline.io/. Free for anyone who is interested!
+I wrote this simple CLI Ghost Game as I worked through the App Academy Open curriculum at https://www.aaonline.io/. This full stack programming course is free for anyone who is interested!
 
 Ghost is word game, and when you lose a round you gain a letter in Ghost (kind of like the scoring in Horse if you were playing basketball). 
 
