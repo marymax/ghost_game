@@ -9,5 +9,7 @@ There is an explanation of the game on Wikipedia https://en.wikipedia.org/wiki/G
 To play the game you'll need to have Ruby 2.2 or higher installed on your computer.
 
 1. Open the Terminal and navigate to the folder where you've saved the Ghost Game files.
-2. To start use the command> ruby play_ghost.rb
+2. To start use the command> ruby 'play_ghost.rb'
+3. Win by forcing the other player to make a complete word. 5 times! (GHOST)
 
+Good luck!
